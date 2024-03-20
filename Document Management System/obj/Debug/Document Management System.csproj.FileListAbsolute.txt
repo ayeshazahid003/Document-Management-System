@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\Document Management System\Document Management System\bin\Debug\Document Management System.exe.config
+C:\Users\dell\source\repos\Document Management System\Document Management System\bin\Debug\Document Management System.exe
+C:\Users\dell\source\repos\Document Management System\Document Management System\bin\Debug\Document Management System.pdb
+C:\Users\dell\source\repos\Document Management System\Document Management System\obj\Debug\Document Management System.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Document Management System\Document Management System\obj\Debug\Document_Management_System.Form1.resources
+C:\Users\dell\source\repos\Document Management System\Document Management System\obj\Debug\Document_Management_System.Properties.Resources.resources
+C:\Users\dell\source\repos\Document Management System\Document Management System\obj\Debug\Document Management System.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Document Management System\Document Management System\obj\Debug\Document Management System.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Document Management System\Document Management System\obj\Debug\Document Management System.exe
+C:\Users\dell\source\repos\Document Management System\Document Management System\obj\Debug\Document Management System.pdb
